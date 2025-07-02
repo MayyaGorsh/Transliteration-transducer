@@ -1,7 +1,7 @@
 # Hiragana-to-Russian Transliteration System
 
 This project is a **transliteration system for Japanese Hiragana**, converting it into Russian pronunciation using Unicode-based rules and context-sensitive logic.
-Japanese pronunciation and transliteration are **highly context-dependent**. A rule-based transducer allows accurate modeling of the following phenomena:
+Japanese pronunciation and transliteration are highly context-dependent. A **rule-based transducer with states** allows accurate modeling of the following phenomena:
 
 
 ## How It Works

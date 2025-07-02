@@ -11,7 +11,9 @@ Japanese pronunciation and transliteration are **highly context-dependent**. A r
 - The sentence must consist only of **valid Hiragana characters and spaces**. Any other character is considered invalid.
 - The transliteration engine uses **Unicode character IDs** to parse and transform the input.
 
-### ✅ Key Rules Implemented
+---
+
+### Key Rules Implemented
 
 - **Sokuon (small っ)** doubles the following consonant. It cannot appear at the start or end of a word, or before a vowel.
 - **N → M** before bilabials (P, F, B, M). Sokuon doubling applies *after* this change.
@@ -25,7 +27,7 @@ Japanese pronunciation and transliteration are **highly context-dependent**. A r
 
 ---
 
-## 🚀 Try It Yourself
+## Try it
 
 You can **run the transliterator and see how it works** in the notebook:  
 **`transliterator.ipynb`**

@@ -12,7 +12,7 @@ Japanese pronunciation and transliteration are **highly context-dependent**. A r
 
 
 
-### Key Rules Implemented
+## Key Rules Implemented
 
 - **Sokuon (small っ)** doubles the following consonant. It cannot appear at the start or end of a word, or before a vowel.
 - **N → M** before bilabials (P, F, B, M). Sokuon doubling applies *after* this change.

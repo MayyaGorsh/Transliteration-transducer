@@ -3,7 +3,6 @@
 This project is a **transliteration system for Japanese Hiragana**, converting it into Russian pronunciation using Unicode-based rules and context-sensitive logic.
 Japanese pronunciation and transliteration are **highly context-dependent**. A rule-based transducer allows accurate modeling of the following phenomena:
 
----
 
 ## How It Works
 
@@ -11,7 +10,7 @@ Japanese pronunciation and transliteration are **highly context-dependent**. A r
 - The sentence must consist only of **valid Hiragana characters and spaces**. Any other character is considered invalid.
 - The transliteration engine uses **Unicode character IDs** to parse and transform the input.
 
----
+
 
 ### Key Rules Implemented
 
@@ -25,7 +24,7 @@ Japanese pronunciation and transliteration are **highly context-dependent**. A r
   - E + I → long E  
   - O + U → long O  
 
----
+
 
 ## Try it
 
